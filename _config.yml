@@ -76,8 +76,8 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: # Optional - Enter your site title
-description: # Optional - Enter your site description
+title: EconTalk App# Optional - Enter your site title
+description: Record your comments. Listen to others.# Optional - Enter your site description
 
 #
 # Google Analytics
