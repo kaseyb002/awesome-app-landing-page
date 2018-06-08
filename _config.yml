@@ -8,7 +8,7 @@
 # General App Info
 #
 app:
-  name: Awesome App # REQUIRED - Enter your app name
+  name: EconTalk App
   ios_id: 1109109105 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
@@ -25,8 +25,8 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_header: Vocie record your comments # Optional
+marketing_desc: Get every EconTalk episode ever done and talk with others about it.
 
 #
 # Social Links
@@ -76,8 +76,8 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: EconTalk App# Optional - Enter your site title
-description: Record your comments. Listen to others.# Optional - Enter your site description
+title: EconTalk App
+description: Record your comments. Listen to others.
 
 #
 # Google Analytics
